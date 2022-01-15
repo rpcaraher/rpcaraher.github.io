@@ -79,3 +79,17 @@ body{
     text-align:center;
     padding:5px;	
     }
+
+   .btn a{
+      background-color: maroon;
+      border: none;
+      color: white;
+      padding: 12px 30px;
+      cursor: pointer;
+      font-size: 15px;
+      display: inline-flex;
+    }
+
+    .btn a:hover{
+      color:black;	
+      }
