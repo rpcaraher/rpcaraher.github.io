@@ -13,7 +13,7 @@ body{
 
     a:link,a:visited{
     text-decoration:none;
-    color:brown;
+    color:maroon;
     font-weight:bold;
     }
 
@@ -66,11 +66,13 @@ body{
 
     header{
     height:100px;
+    margin-bottom:70px;
     }
 
     header h1{
     color:rgba(256,256,256,0.8);
     margin-left:30px;
+    margin-top:30px;
     font-size:50px;
     }
 
