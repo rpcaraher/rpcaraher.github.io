@@ -8,9 +8,6 @@ body{
     color:maroon;
     }
 
-    ul{
-    }
-
     a:link,a:visited{
     text-decoration:none;
     color:maroon;
@@ -21,7 +18,13 @@ body{
     color:black;	
     }
 
+    nav {
+        width: 75%;
+        margin: auto
+      }
+
     nav ul{
+    display:inline-block;
     list-style-type:none;
     padding:0;
     }
@@ -29,6 +32,7 @@ body{
     nav li{
     display:inline;
     float:left;
+    padding: 0;
     }
 
     nav a:link, nav a:visited{
@@ -67,6 +71,8 @@ body{
     header{
     height:100px;
     margin-bottom:70px;
+    margin-left: auto;
+    margin-right: auto;
     }
 
     header h1{
