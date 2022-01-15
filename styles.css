@@ -20,7 +20,7 @@ body{
 
     nav {
         width: 75%;
-        margin: auto
+        margin: auto;
       }
 
     nav ul{
@@ -30,8 +30,7 @@ body{
     }
 
     nav li{
-    display:inline;
-    float:left;
+    display:inline-block;
     padding: 0;
     }
 
@@ -48,16 +47,6 @@ body{
     background-color:black;	
     }
 
-    aside{
-    width:280px;
-    float:right;
-    background-color:tan;
-    text-align:center;
-    font-weight:bold;
-    padding:20px;
-    margin-left:20px;	
-    }
-
     .photo-left{
     float:left;
     margin-right:20px;	
@@ -69,34 +58,16 @@ body{
     }
 
     header{
-    height:100px;
-    margin-bottom:70px;
-    margin-left: auto;
-    margin-right: auto;
+      background: maroon;
     }
 
     header h1{
-    color:rgba(256,256,256,0.8);
-    margin-left:30px;
-    margin-top:30px;
+    color: white;
     font-size:50px;
-    }
-
-    footer{
-    margin:40px 0;	
-    }
-
-    footer nav a:link, footer nav a:visited{
-    color:gray;
-    text-decoration:none;
-    display:block;
-    width:160px;
-    text-align:center;
-    background-color:white;
-    }
-
-    footer nav a:hover{
-    color:black;	
+    display: inline-block;
+    position:relative;
+    text-align: center;
+    width: 100%;
     }
 
     td,th{
@@ -104,16 +75,4 @@ body{
     width:20%;
     text-align:center;
     padding:5px;	
-    }
-
-    table{
-    border-collapse:collapse;	
-    }
-
-    video{
-    margin-bottom:20px;
-    margin-left:160px;
-    -webkit-filter:grayscale(100%);
-    -moz-filter:grayscale(100%);	
-    filter:grayscale(100%);	
     }
