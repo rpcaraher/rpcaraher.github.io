@@ -19,8 +19,11 @@ body{
     }
 
     nav {
-        width: 75%;
+        width: 100%;
         margin: auto;
+        display: inline-block;
+        position: relative;
+        text-align: center;
       }
 
     nav ul{
