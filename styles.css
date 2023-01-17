@@ -10,8 +10,8 @@ body{
 
     a:link,a:visited{
     text-decoration:none;
-    color:maroon;
-    font-weight:bold;
+    color:blue;
+    font-weight:normal;
     }
 
     a:hover{
@@ -40,6 +40,7 @@ body{
     nav a:link, nav a:visited{
     background-color:maroon;
     color:white;
+    font-weight:bold;
     display:block;
     width:160px;
     text-align:center;
