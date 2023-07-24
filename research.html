@@ -6,6 +6,46 @@
 <title>Research - Raymond Caraher</title>
 <meta property="og:site_name" content="Raymond Caraher">
 <link href="styles.css" rel="stylesheet" type="text/css"/>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(function() {
+        var images = [
+            "files/prof_pic.JPG",
+            "files/ag_rep_fig1.png"
+        ];
+        var currentIndex = 0;
+        var slideshow = $("#slideshow");
+        var prevButton = $("#prevButton");
+        var nextButton = $("#nextButton");
+        prevButton.on("click", function() {
+            currentIndex--;
+            if (currentIndex < 0) {
+                currentIndex = images.length - 1;
+            }
+            slideshow.find("img").attr("src", images[currentIndex]);
+        });
+        nextButton.on("click", function() {
+            currentIndex++;
+            if (currentIndex >= images.length) {
+                currentIndex = 0;
+            }
+            slideshow.find("img").attr("src", images[currentIndex]);
+        });
+        setInterval(function() {
+            currentIndex++;
+            if (currentIndex >= images.length) {
+                currentIndex = 0;
+            }
+            slideshow.find("img").attr("src", images[currentIndex]);
+        }, 3000);
+    });
+</script>
+<script>
+    function showText() {
+      document.getElementById("additionalText").style.display = "block";
+    }
+    </script>
 </head>
 
 <body>
@@ -24,14 +64,21 @@
 <h1 style="text-align:center">Research</h1>
 
 <h2>Working Papers</h2>
-<hr width="??%">
+<hr stlye="??%">
 
-<p>
+<p style="font-size: 16px">
     "Reproductive Injustice? A County-Level Analysis of the Impact of Abortion Restrictions on Abortion Rates."
     <em>Political Economy Research Institute</em> (PERI) Working Paper 573 (2023).
     <a href="https://peri.umass.edu/publication/item/1705-reproductive-injustice-a-county-level-analysis-of-the-impact-of-abortion-restrictions-on-abortion-rates">Available here</a>.
 
 </p>
+
+<!-- <p onmouseover="showText()">Hover over this text to show more information.</p>
+
+<div id="additionalText" style="display:none;">
+  <p>This is the additional text that will appear when you hover over the above paragraph.</p>
+</div> -->
+
 
 <p class="tababs">
     <em>Abstract: </em>Since Planned Parenthood v. Casey in 1992, state governments in the United States have been permitted to restrict abortion access up to the point where such restrictions do not place an ‘’undue burden” on those seeking abortion care. 
@@ -121,48 +168,14 @@
 
 </p>
 
-<h2>Presentations and Conferences</h2>
-<hr width="??%">
 
-<p>
-    The Effect of Abortion Restrictions on Abortion Rates. 
-    Eastern Economic Association, 
-    New York, NY.
-    February 26, 2023.
-</p>
-
-<p>
-    The Effect of Abortion Restrictions on Abortion Rates. 
-    Student Paper Colloquium, 
-    UMass Amherst Department of Economics, 
-    Amherst, MA. 
-    February 17, 2023.
-</p>
-
-<p>
-    Does Project-Level Aid for Water and Sanitation Improve Child Health Outcomes? Evidence from Household Panel Data in Uganda 
-    (with Lynda Pickbourn and Leonce Ndikumana). 
-    International Research Conference on the Effectiveness of Development Cooperation, 
-    Brussels, Belgium. 
-    November 18, 2022.
-</p>
-
-<p>
-    The Economic Effects of Abortion Restrictions.
-    International Association for Feminist Economics (IAFFE),
-    Geneva, Switzerland.
-    June 30, 2022.
-</p>
-
-<p>
-    Does Project-Level Foreign Aid Increase Access to Improved Water Sources? Evidence from Household Panel Data in Uganda
-    (with Lynda Pickbourn and Leonce Ndikumana).
-    History and Development Workshop, 
-    UMass Amherst Department of Economics,
-    Amherst, MA.
-    April 20, 2022.
-</p>
-
+<!-- <div class="slideshow" id="slideshow">
+    <img src="image1.jpg" alt="Slideshow Image">
+</div>
+<div class="button-container">
+    <button id="prevButton">Previous</button>
+    <button id="nextButton">Next</button>
+</div> -->
 
 <!-- <h2>Data</h2> -->
 
