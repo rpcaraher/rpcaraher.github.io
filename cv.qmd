@@ -1,0 +1,14 @@
+---
+title: "CV"
+---
+
+CV last updated: May 2024
+
+<br>
+
+{{< downloadthis files/CV_RaymondCaraher.pdf label="Click Here to Download CV" 
+type="secondary" dname="CV_RaymondCaraher">}}
+
+<br>
+
+{{< pdf files/CV_RaymondCaraher.pdf width=100% height=800 border=3 >}}

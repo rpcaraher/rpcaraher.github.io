@@ -1,0 +1,14 @@
+---
+title: "Raymond Caraher"
+about:
+  template: trestles
+  image: files/prof_pic.JPG
+  image-shape: rounded
+---
+
+## About
+
+Ray is a PhD Candidate in the [Department of Economics](https://www.umass.edu/economics/) at the [University of Massachusetts Amherst](https://www.umass.edu). 
+His interests are primarily in health economics, labor economics, political economy, and the economics of race and gender.
+His dissertation focuses on using methods from economics to understand the social, health, and economic effects of the overturning of Roe v. Wade.
+He was recently a research assistant at the [Political Economy Research Institute (PERI)](https://peri.umass.edu) and has worked on a wide range of projects with PERI faculty including on topics related to climate change, labor market policy, unions, and development aid.

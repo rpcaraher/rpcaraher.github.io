@@ -1,0 +1,59 @@
+---
+title: "Teaching"
+---
+
+## Instructor
+
+### Introduction to Microeconomics
+##### ECON 103 | University of Massachusetts Amherst
+Summer 2024
+
+::: {.callout-note appearance="default" collapse="true"}
+# About the Course
+
+Economics 103 is a general education course in the Social World. It is designed to help you to arrive at a better understanding of yourself and other people and involves writing and analytical and critical thinking as well as the development of technical skills. Econ 103 introduces students to the fundamental questions in social theory: the nature of society and the relationship between individuals and the community in the construction of an economic system. While a course in economic and social theory, theories are taught through examples that illustrate their use in practice and the implications of these different approaches. We look at the meaning and value of economic growth, the importance of market externalities and alternative ways to regulate them, the relationship between economic inequality and economic growth, and the meaning and role of social insurance. An underlying theme of Econ 103 is how our choice of economic theory informs our choice of economic policy and our collective action.
+
+:::
+
+::: {.callout-tip appearance="default" collapse="true"}
+# Course Materials
+
+[Syllabus availible here](files/teaching/econ103_syllabus_sum2024_Caraher.pdf)
+
+:::
+
+### Economics in the Age of Big Data
+##### ECON 337 | University of Massachusetts Amherst
+Fall 2023
+
+::: {.callout-note  appearance="default" collapse="true"}
+# About the Course
+
+We are living in the age of Big Data.
+In these “data-driven" times, the potential for addressing critical socio-economic issues related to
+education, health, poverty, climate change, and more is immense. However, it also brings to light serious ethical dilemmas and challenges. Throughout history, data has been a tool for social progress, but also as a means to justify social inequalities and the policies which exacerbate them. The era of Big Data is no different.
+This course focuses on the practical applications of Big Data for social scientists and policymakers. We will learn the basic theory and skills for basic analysis of Big Data, and apply them to several of the pressing social problems facing the world today. However, we will also develop a critical perspective on the role of data in society and policy by focusing on historical and recent case studies of how data was used to justify social and economic inequalities. The course is divided into three modules. The first module is designed to introduce you to some of the historical misuses of data along with the political and ethical complexities associated with the rise of Big Data, Machine Learning, and AI. In the second module, you will gain practical knowledge and hands-on experience with data manipulation and analysis using the R programming language. In the last module, we will explore how Big Data has revolutionized the social sciences. We will delve into recent advancements that have expanded the possibilities of empirical analysis, enabling us to extract valuable insights from vast datasets.
+
+:::
+
+::: {.callout-tip appearance="default" collapse="true"}
+# Course Materials
+
+[Syllabus availible here](files/teaching/syllabus-econ337-f23.pdf)
+
+:::
+
+## Teaching Asssistantships
+
+#### Money and Banking
+##### ECON 311 | University of Massachusetts Amherst
+Spring 2023
+
+#### Introduction to Microeconomics
+##### ECON 103 | University of Massachusetts Amherst
+Spring 2024, Spring 2022, Fall 2019
+
+#### Introduction to Macroeconomics
+##### ECON 104 | University of Massachusetts Amherst
+Fall 2018
+

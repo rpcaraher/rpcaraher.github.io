@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Raymond Caraher"
+  navbar:
+    background: primary
+    search: true
+    open-graph: true
+    
+    left:
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    
+    right:
+      - text: "{{< iconify bi envelope size=1.1em title='Email' >}}"
+        href: "mailto:rcaraher@umass.edu"
+      - text: "{{< iconify mdi:internet size=1.1em title='Website' >}}"
+        href: "https://raymondcaraher.com"
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: "https://github.com/rpcaraher"
+  
+  page-footer:
+    border: false
+    background: light 
+    left: <span class="faux-block">{{< fa brands creative-commons >}} &copy; 2024 Raymond Caraher. All rights reserved. </span> 
+    right: <span class="faux-block">Built with <a href="https://quarto.org">Quarto</a></span>
+    center: <span class="faux-block"> [Contact Me](contact.qmd) </span>
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+
