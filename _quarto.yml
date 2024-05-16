@@ -21,7 +21,7 @@ website:
       - text: "{{< iconify bi envelope size=1.1em title='Email' >}}"
         href: "mailto:rcaraher@umass.edu"
       - text: "{{< iconify mdi:internet size=1.1em title='Website' >}}"
-        href: "https://raymondcaraher.com"
+        href: "https://www.raymondcaraher.com"
       - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
         href: "https://github.com/rpcaraher"
   
