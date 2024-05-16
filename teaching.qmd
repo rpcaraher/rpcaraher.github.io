@@ -18,7 +18,7 @@ Economics 103 is a general education course in the Social World. It is designed 
 ::: {.callout-tip appearance="default" collapse="true"}
 # Course Materials
 
-[Syllabus availible here](files/teaching/econ103_syllabus_sum2024_Caraher.pdf)
+[Syllabus availible here](https://drive.google.com/file/d/1KvMJJts9izS_X3CuxputQs13jSL-it4r/view?usp=share_link)
 
 :::
 
@@ -39,7 +39,7 @@ This course focuses on the practical applications of Big Data for social scienti
 ::: {.callout-tip appearance="default" collapse="true"}
 # Course Materials
 
-[Syllabus availible here](files/teaching/syllabus-econ337-f23.pdf)
+[Syllabus availible here](https://drive.google.com/file/d/1f3M_XSOoNqP5dEBItPGRL1SR7gmdPmEU/view?usp=share_link)
 
 :::
 
