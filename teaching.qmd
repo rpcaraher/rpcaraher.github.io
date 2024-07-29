@@ -4,24 +4,6 @@ title: "Teaching"
 
 ## Instructor
 
-### Introduction to Microeconomics
-##### ECON 103 | University of Massachusetts Amherst
-Summer 2024
-
-::: {.callout-note appearance="default" collapse="true"}
-# About the Course
-
-Economics 103 is a general education course in the Social World. It is designed to help you to arrive at a better understanding of yourself and other people and involves writing and analytical and critical thinking as well as the development of technical skills. Econ 103 introduces students to the fundamental questions in social theory: the nature of society and the relationship between individuals and the community in the construction of an economic system. While a course in economic and social theory, theories are taught through examples that illustrate their use in practice and the implications of these different approaches. We look at the meaning and value of economic growth, the importance of market externalities and alternative ways to regulate them, the relationship between economic inequality and economic growth, and the meaning and role of social insurance. An underlying theme of Econ 103 is how our choice of economic theory informs our choice of economic policy and our collective action.
-
-:::
-
-::: {.callout-tip appearance="default" collapse="true"}
-# Course Materials
-
-[Syllabus availible here](https://drive.google.com/file/d/1KvMJJts9izS_X3CuxputQs13jSL-it4r/view?usp=share_link)
-
-:::
-
 ### Economics in the Age of Big Data
 ##### ECON 337 | University of Massachusetts Amherst
 Fall 2023
@@ -36,12 +18,35 @@ This course focuses on the practical applications of Big Data for social scienti
 
 :::
 
-::: {.callout-tip appearance="default" collapse="true"}
+::: {.callout-tip appearance="minimal"}
 # Course Materials
 
-[Syllabus availible here](https://drive.google.com/file/d/1f3M_XSOoNqP5dEBItPGRL1SR7gmdPmEU/view?usp=share_link)
+{{< iconify devicon:notion size=1.2em title='Notion' >}} [Course Website](https://rcaraher.notion.site/Econ-337-Economics-in-the-Age-of-Big-Data-c3f04a1211d646329a881ffca8b675d4?pvs=4)
+
+
+{{< iconify iconoir:map size=1.2em title='Syllabus' >}} [Sample Syllabus](https://drive.google.com/file/d/1f3M_XSOoNqP5dEBItPGRL1SR7gmdPmEU/view?usp=share_link)
+
 
 :::
+
+### Introduction to Microeconomics
+##### ECON 103 | University of Massachusetts Amherst
+Summer 2024
+
+::: {.callout-note appearance="default" collapse="true"}
+# About the Course
+
+Economics 103 is a general education course in the Social World. It is designed to help you to arrive at a better understanding of yourself and other people and involves writing and analytical and critical thinking as well as the development of technical skills. Econ 103 introduces students to the fundamental questions in social theory: the nature of society and the relationship between individuals and the community in the construction of an economic system. While a course in economic and social theory, theories are taught through examples that illustrate their use in practice and the implications of these different approaches. We look at the meaning and value of economic growth, the importance of market externalities and alternative ways to regulate them, the relationship between economic inequality and economic growth, and the meaning and role of social insurance. An underlying theme of Econ 103 is how our choice of economic theory informs our choice of economic policy and our collective action.
+
+:::
+
+::: {.callout-tip appearance="minimal"}
+# Course Materials
+
+{{< iconify iconoir:map size=1.2em title='Syllabus' >}} [Sample Syllabus](https://drive.google.com/file/d/1KvMJJts9izS_X3CuxputQs13jSL-it4r/view?usp=share_link)
+
+:::
+
 
 ## Teaching Asssistantships
 
