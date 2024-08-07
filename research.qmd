@@ -5,7 +5,23 @@ toc: true
 
 ## Working Papers
 
-- Caraher, Raymond. "Reproductive Injustice? A County-Level Analysis of the Impact of Abortion Restrictions on Abortion Rates." *Political Economy Research Institute* (PERI) Working Paper 573 (2023).\
+##### Caraher, Raymond. "Do Abortion Bans Affect Reproductive and Infant Health? Evidence from Texas’s 2021 Ban and its Impact on Health Disparities." *Political Economy Research Institute* (PERI) Working Paper 606 (2024).
+
+::: {.callout-note appearance="simple" collapse="true"}
+# Abstract
+
+The overturning of Roe v. Wade led to a wave of abortion bans in state legislatures across the United States. This emergence of a restrictive reproductive health policy environment has the potential to affect a wide range of reproductive health outcomes. This paper uses Texas’s 2021 6-week ban on abortion as a case study to examine the causal effect of an abortion ban on reproductive health outcomes, specifically abortion rates, fertility rates, and infant health outcomes. It examines how these effects may be heterogeneous by group, especially focusing on how the effects of abortion bans on reproductive health may be concentrated in those who are already facing disparities in reproductive health outcomes such as Black women. Using a difference-in-differences strategy, the analysis finds that the ban decreased abortion rates by over 40 percent, and increased fertility rates by about 4 percent, with the largest increases for Black non-Hispanic women and for counties far from a state with less restrictive abortion laws. This paper then constructs a measure of unmet reproductive health needs after an abortion ban, and finds that the unmet needs after the Texas 6-week ban are largest in counties with higher proportions of Black non-Hispanic residents, as well as counties which are furthest away from states which did not ban abortion after the Dobbs decision. The analysis then examines the effect of the ban on infant health outcomes, specifically focusing on heterogeneity in the effect of the ban on birth weight and infant mortality. This paper finds that the ban led to increases in the probability of an infant being born with very low birth weight of about 7 percent, with Black non-Hispanic infants experiencing the largest increases in the likelihood of very low birth weight. Additionally, the analysis finds significant increases in the infant mortality rate of about 6 percent after the abortion ban, again with Black non-Hispanic infants experiencing the largest increases in mortality. Further, the ban increased infant mortality rates more in counties which are further away from states which did not ban abortion after the Dobbs decision. The results suggest that the effects of abortion bans tend to be especially concentrated in marginalized populations, as well as those who are least able to shift their fertility options away from in-state abortions after a ban. The analysis shows that the trend towards an increasing number abortion bans will further exacerbate disparities in reproductive health outcomes
+
+:::
+
+::: {.callout-tip appearance="minimal"}
+
+{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://ssrn.com/abstract=4911886) 
+
+:::
+
+
+##### Caraher, Raymond. "Reproductive Injustice? A County-Level Analysis of the Impact of Abortion Restrictions on Abortion Rates." *Political Economy Research Institute* (PERI) Working Paper 573 (2023).
 
 ::: {.callout-note appearance="simple" collapse="true"}
 # Abstract
@@ -20,9 +36,7 @@ Since Planned Parenthood v. Casey in 1992, state governments in the United State
 
 :::
 
-- Pickbourn, Lynda, Raymond Caraher, and Léonce Ndikumana. 
-"Does Project-Level Aid for Water and Sanitation Improve Child Health Outcomes? Evidence from Household Panel Data in Uganda."
-*WIDER* Working Paper 2022/141 (2022).\
+##### Pickbourn, Lynda, Raymond Caraher, and Léonce Ndikumana. "Does Project-Level Aid for Water and Sanitation Improve Child Health Outcomes? Evidence from Household Panel Data in Uganda." *WIDER* Working Paper 2022/141 (2022).
 
 ::: {.callout-note appearance="simple" collapse="true"}
 # Abstract
@@ -46,9 +60,7 @@ The results suggest that scaling up aid to the WASH sector can help improve chil
 
 ## Peer-Reviewed Publications
 
-- Caraher, Raymond and Michael Ash.
-"Genetic Diversity and Economic Development: Assessing the Key Findings in Ashraf and Galor (2013).” 
-Current Anthropology (*forthcoming*). \
+##### Caraher, Raymond and Michael Ash. "Genetic Diversity and Economic Development: Assessing the Key Findings in Ashraf and Galor (2013).” Current Anthropology (*forthcoming*).
 
 ::: {.callout-note appearance="simple" collapse="true"}
 # Abstract
@@ -65,14 +77,11 @@ Lastly, we correct a coding error in Ashraf and Galor (2013) and find that the a
 
 ::: {.callout-tip appearance="minimal"}
 
-{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://www.umass.edu/economics/publications/2018-05.pdf)
+{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://doi.org/https://doi.org/10.7275/11867619)
 
 :::
 
-- Pickbourn, Lynda, Raymond Caraher, and Léonce Ndikumana.
-"Does Project-Level Foreign Aid Increase Access to Improved Water Sources? Evidence from Household Panel Data in Uganda." 
-World Development 158 (2022): 105994. <https://doi.org/10.1016/j.worlddev.2022.105994>. \
-
+##### Pickbourn, Lynda, Raymond Caraher, and Léonce Ndikumana. "Does Project-Level Foreign Aid Increase Access to Improved Water Sources? Evidence from Household Panel Data in Uganda." World Development 158 (2022): 105994. <https://doi.org/10.1016/j.worlddev.2022.105994>.
 
 ::: {.callout-note appearance="simple" collapse="true"}
 # Abstract
@@ -92,7 +101,7 @@ This is an indication that the supply of improved water sources financed by WASH
 
 {{< iconify iconoir:journal size=1.2em title='Preprint' >}} [Final Version](https://doi.org/10.1016/j.worlddev.2022.105994) \
 
-{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://peri.umass.edu/images/WP554.pdf) \
+{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://doi.org/https://doi.org/10.7275/27118338) \
 
 {{< iconify iconoir:database size=1.2em title='Preprint' >}} [Data and Code](https://doi.org/10.7910/DVN/I7ASBJ) \
 
