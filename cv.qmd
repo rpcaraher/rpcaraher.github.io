@@ -6,8 +6,7 @@ CV last updated: August 2024
 
 <br>
 
-{{< downloadthis files/CV_RaymondCaraher.pdf label="Click Here to Download CV" 
-type="secondary" dname="CV_RaymondCaraher">}}
+[{{< iconify iconoir:download-square size=1.25em title='CV'>}} Click Here to Download CV](files/CV_RaymondCaraher.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Click Here to Download CV"}
 
 <br>
 
