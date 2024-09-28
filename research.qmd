@@ -99,10 +99,8 @@ This is an indication that the supply of improved water sources financed by WASH
 
 ::: {.callout-tip appearance="minimal"}
 
-{{< iconify iconoir:journal size=1.2em title='Preprint' >}} [Final Version](https://doi.org/10.1016/j.worlddev.2022.105994) \
-
-{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://doi.org/https://doi.org/10.7275/27118338) \
-
+{{< iconify iconoir:journal size=1.2em title='Preprint' >}} [Final Version](https://doi.org/10.1016/j.worlddev.2022.105994) \ |
+{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://doi.org/https://doi.org/10.7275/27118338) \ |
 {{< iconify iconoir:database size=1.2em title='Preprint' >}} [Data and Code](https://doi.org/10.7910/DVN/I7ASBJ) \
 
 :::
