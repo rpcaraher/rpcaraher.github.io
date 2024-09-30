@@ -16,7 +16,7 @@ date: "October 2022"
 image: map_ws_filt_hh.jpg
 categories:
   - Aid
-  - Water and Sanitation
+  - Water & Sanitation
   - Africa
   - Uganda
 cap-location: top

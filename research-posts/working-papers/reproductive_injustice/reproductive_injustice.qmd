@@ -12,9 +12,8 @@ date: "March 5, 2023 "
 image: rest_stacked_mod1.jpg
 categories:
   - Reproductive Health
-  - Abortion Restrictions
+  - Abortion Restrictions & Bans
   - Abortion
-  - Roe v. Wade
   - Reproductive Justice
 cap-location: top
 citation:

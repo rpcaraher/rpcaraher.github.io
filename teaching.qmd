@@ -22,7 +22,7 @@ This course focuses on the practical applications of Big Data for social scienti
 ::: {.callout-tip appearance="minimal"}
 # Course Materials
 
-{{< iconify devicon:notion size=1.2em title='Notion' >}} [Course Website](https://rcaraher.notion.site/Econ-337-Economics-in-the-Age-of-Big-Data-c3f04a1211d646329a881ffca8b675d4?pvs=4)
+{{< iconify devicon:notion size=1.2em title='Notion' >}} [Sample Course Website](https://rcaraher.notion.site/Econ-337-Economics-in-the-Age-of-Big-Data-c3f04a1211d646329a881ffca8b675d4?pvs=4)
 
 
 {{< iconify iconoir:map size=1.2em title='Syllabus' >}} [Sample Syllabus](https://drive.google.com/file/d/1f3M_XSOoNqP5dEBItPGRL1SR7gmdPmEU/view?usp=share_link)
@@ -49,7 +49,7 @@ Economics 103 is a general education course in the Social World. It is designed 
 :::
 
 
-## Teaching Asssistantships
+## Teaching Asssistant
 
 #### Money and Banking
 ##### ECON 311 | University of Massachusetts Amherst

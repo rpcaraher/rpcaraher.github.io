@@ -15,7 +15,7 @@ categories:
   - Abortion
   - Fertility
   - Infant Health
-  - Abortion Bans
+  - Abortion Restrictions & Bans
   - Texas
 cap-location: top
 citation:

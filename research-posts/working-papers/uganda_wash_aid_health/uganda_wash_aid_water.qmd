@@ -16,7 +16,7 @@ date: "November 2022"
 image: sev_stunt_rates_by_proj.jpg
 categories:
   - Aid 
-  - Water and Sanitation
+  - Water & Sanitation
   - Child Health
   - Africa
   - Uganda
