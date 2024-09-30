@@ -1,0 +1,93 @@
+---
+title: "Reproductive Injustice? A County-Level Analysis of the Impact of Abortion Restrictions on Abortion Rates"
+description: "This paper analyzes how various types of abortion restrictions have impacted abortion rates in the U.S. since Planned Parenthood v. Casey. Using 20 years of county-level data, it finds that restrictions targeting those seeking abortions reduce abortion rates more than restrictions targeting providers, with the strongest effects felt in low-income and Black or Hispanic communities."
+author: 
+  - name: "Raymond Caraher"
+    url: "https://www.raymondcaraher.com/"
+    orcid: 0000-0001-8256-0180
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+    affiliation-url: "https://www.umass.edu/economics/"
+date: "March 5, 2023 "
+#date-modified: "July 28, 2024"
+image: rest_stacked_mod1.jpg
+categories:
+  - Reproductive Health
+  - Abortion Restrictions
+  - Abortion
+  - Roe v. Wade
+  - Reproductive Justice
+cap-location: top
+citation:
+  type: article-journal
+  container-title: "Political Economy Research Institute (PERI) Working Paper"
+  url: http://dx.doi.org/10.2139/ssrn.4381662
+  number: "573"
+google-scholar: true 
+---
+
+<!--Abstract------------------------------------------------------------------->
+## Abstract
+
+Since Planned Parenthood v. Casey in 1992, state governments in the United States have been permitted to restrict abortion access up to the point where such restrictions do not place an ‘’undue burden” on those seeking abortion care. Since this ruling, abortion restrictions of various types and intensities have proliferated across the South and Midwest, especially since the 2010s. This paper uses a novel dataset of county-level abortion rates covering 20 years, as well as a database covering four types of restrictions which represent both “demand-side” restrictions (i.e., those which target abortion seekers) and “supply-side” restrictions (i.e., those which target abortion providers), to analyze the effect of abortion restrictions on abortion rates. Using a difference-in-differences design, the analysis finds that while both classes of abortion restrictions reduce the abortion rate, restrictions that target pregnant people seeking an abortion have a substantially larger effect on abortion rates. Leveraging the spatial heterogeneity of the county-level dataset, the analysis further finds that abortion restrictions have a substantially larger negative effect on abortion rates for counties which have a larger share of Black or Hispanic residents. When comparing high and low income counties, the results suggest that poorer counties experience a higher negative effect of abortion restrictions. Further, the study finds significant variation in the effect of different abortion restrictions by state. While demand-side laws consistently cause abortion rates to decrease, the results for supply- side laws are more heterogenous. Overall, the results suggest that repealing Roe v. Wade will have a significant and unequal effect on abortion rates, with marginalized communities experiencing a greater impact.
+
+
+<!--Links---------------------------------------------------------------------->
+
+:::: {.columns}
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Final Version'>}} Final Version](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Final Version"}
+
+::: -->
+
+::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Preprint'>}} Preprint](http://dx.doi.org/10.2139/ssrn.4381662){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Preprint"}
+
+:::
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:database size=1.2em title='Data and Code' >}} Data and Code](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Data and Code"}
+
+::: -->
+
+::::
+
+
+<!--Figures-------------------------------------------------------------------->
+
+## Key Figures
+
+<!-- ::::: {.column-page}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Fertility Rates](ban_fert_es_mod1.jpg){width=90%}
+
+:::
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Infant Mortality Rates](ban_infmort_es_mod2.jpg){width=90%}
+
+:::
+
+::::
+
+::::: -->
+
+::::: {.column-page}
+
+![Effect of Abortion Restrictions on Abortion Rates](rest_stacked_mod1.jpg){width=50%}
+
+:::::
+
+::::: {.column-page}
+
+![Effect of Abortion Restrictions on Abortion Rates by Restriction and County Demographic Type](trap_waittwo_mod1_race.jpg){width=90%}
+
+:::::

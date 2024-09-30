@@ -1,0 +1,121 @@
+---
+title: "Does Project-Level Foreign Aid Increase Access to Improved Water Sources? Evidence from Household Panel Data in Uganda"
+description: "This paper examines the effectiveness of WASH aid projects in Uganda by analyzing geocoded data on project locations and household access to water. The findings suggest that while these aid-funded projects improve access to improved water sources, they also increase the time burden for households due to longer travel distances and wait times, indicating that the supply of water sources is still insufficient to meet demand in high-density areas."
+author: 
+  - name: "Lynda Pickbourn"
+    affiliation: "Mount Holyoke College"
+  - name: "Raymond Caraher"
+    url: "https://www.raymondcaraher.com/"
+    orcid: 0000-0001-8256-0180
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+    affiliation-url: "https://www.umass.edu/economics/"
+  - name: "Léonce Ndikumana"
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+date: "October 2022"
+#date-modified: "July 28, 2024"
+image: map_ws_filt_hh.jpg
+categories:
+  - Aid
+  - Water and Sanitation
+  - Africa
+  - Uganda
+cap-location: top
+citation:
+  type: article-journal
+  container-title: "World Development"
+  doi: https://doi.org/10.1016/j.worlddev.2022.105994
+  number: "105994"
+  volume: "158"
+google-scholar: true 
+---
+
+<!--Abstract------------------------------------------------------------------->
+## Abstract
+
+**Published in *World Development***
+
+Empirical evidence from cross-country studies on the effectiveness of aid to the water, sanitation and hygiene sector (WASH aid) points to significant heterogeneity across countries and 
+highlights the need for further research at the sub-national level to assess and quantify the effectiveness of WASH aid within countries. 
+This paper combines geocoded sub-national data on the location of WASH aid projects in Uganda with nationally representative household-level panel survey data to examine whether proximity to aid-funded WASH projects improves household access to water. 
+Access to water is evaluated along three dimensions: access to an improved water source, travel time to an improved water source and waiting time at an improved water source. 
+The results of a difference-in-difference regression analysis suggest that while aid-funded WASH projects increase household access to improved sources of water, 
+households may also see the time burden of water collection increase, 
+as they may need to travel longer distances and also experience longer wait times due to congestion at water service points. 
+This is an indication that the supply of improved water sources financed by WASH aid in Uganda remains insufficient relative to demand as measured by the population density.
+
+
+<!-- :::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.callout-tip appearance="minimal"}
+
+{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://ssrn.com/abstract=4911886) 
+
+:::
+
+:::
+
+::: {.column width="50%"}
+::: {.callout-tip appearance="minimal"}
+
+{{< iconify iconoir:page-edit size=1.2em title='Preprint' >}} [Preprint](https://ssrn.com/abstract=4911886) 
+
+:::
+
+:::
+
+:::: -->
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Final Version'>}} Final Version](https://doi.org/10.1016/j.worlddev.2022.105994){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Final Version"}
+
+:::
+
+::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Preprint'>}} Preprint](https://doi.org/https://doi.org/10.7275/27118338){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Preprint"}
+
+:::
+
+::: {.column width="33%"}
+
+[{{< iconify iconoir:database size=1.2em title='Data and Code' >}} Data and Code](https://doi.org/10.7910/DVN/I7ASBJ){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Data and Code"}
+
+:::
+
+::::
+
+
+<!--Figures-------------------------------------------------------------------->
+
+## Key Figures
+
+<!-- ::::: {.column-page}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Fertility Rates](ban_fert_es_mod1.jpg){width=90%}
+
+:::
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Infant Mortality Rates](ban_infmort_es_mod2.jpg){width=90%}
+
+:::
+
+::::
+
+::::: -->
+
+::::: {.column-page}
+
+![Map of WASH Aid Projects in Uganda](map_ws_filt_hh.jpg){width=90%}
+
+:::::

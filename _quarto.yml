@@ -10,7 +10,7 @@ website:
     open-graph: true
     
     left:
-      - href: research.qmd
+      - href: research-pages.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching

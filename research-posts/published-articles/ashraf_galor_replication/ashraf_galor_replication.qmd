@@ -1,0 +1,93 @@
+---
+title: "Genetic Diversity and Economic Development: Assessing the Key Findings in Ashraf and Galor (2013)"
+description: "This paper replicates Ashraf and Galor (2013) and finds that their conclusions about the link between genetic diversity and economic development are highly sensitive to data selection and covariates. By incorporating updated data and correcting a coding error, the paper shows that the original findings, including the role of trust and innovation, are not statistically robust."
+author: 
+  - name: "Raymond Caraher"
+    url: "https://www.raymondcaraher.com/"
+    orcid: 0000-0001-8256-0180
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+    affiliation-url: "https://www.umass.edu/economics/"
+  - name: "Michael Ash"
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+date: "June 6, 2018"
+#date-modified: "July 28, 2024"
+image: ag_wang_plot.jpg
+categories:
+  - Genetics
+  - Development
+  - Africa
+cap-location: top
+citation:
+  type: article-journal
+  container-title: "University of Massacusetts Amherst Economics Department Working Paper Series"
+  url: https://doi.org/10.7275/11867619
+google-scholar: true 
+---
+
+<!--Abstract------------------------------------------------------------------->
+## Abstract
+
+**Forthcoming in *Current Anthropology***
+
+We replicate Ashraf and Galor (2013) and find that its conclusions concerning the association between human genetic diversity and economic development depend substantially on data selection. 
+We incorporate additional genetic data from the Americas and find that the "hump-shaped" relationship between genetic diversity and economic development is not statistically robust. 
+We also find that the results in Ashraf and Galor (2013) are sensitive to the selection of covariates, 
+in particular the definition of continent fixed-effects. 
+Additionally, we update the population data from the Americas using a more current source and find the magnitude of the relationship between economic development and genetic diversity drops substantially. 
+Further, we find that the results in Ashraf and Galor (2013) analyzing contemporary GDP are dependent on the "ancestry-adjusted" component of genetic diversity. 
+Lastly, we correct a coding error in Ashraf and Galor (2013) and find that the analysis of the mechanisms of trust and innovation are not robust to this correction.
+
+
+:::: {.columns}
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Final Version'>}} Final Version](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Final Version"}
+
+::: -->
+
+::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Preprint'>}} Preprint](https://doi.org/10.7275/11867619){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Preprint"}
+
+:::
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:database size=1.2em title='Data and Code' >}} Data and Code](https://doi.org/10.7910/DVN/I7ASBJ){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Data and Code"}
+
+::: -->
+
+::::
+
+
+<!--Figures-------------------------------------------------------------------->
+
+## Key Figures
+
+<!-- ::::: {.column-page}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Fertility Rates](ban_fert_es_mod1.jpg){width=90%}
+
+:::
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Infant Mortality Rates](ban_infmort_es_mod2.jpg){width=90%}
+
+:::
+
+::::
+
+::::: -->
+
+::::: {.column-page}
+
+![AG Figure 3 with Wang et al. (2007) Western Hemisphere
+Data](ag_wang_plot.jpg){width=90%}
+
+:::::

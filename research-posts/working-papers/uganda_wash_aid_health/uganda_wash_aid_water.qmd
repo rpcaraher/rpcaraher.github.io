@@ -1,0 +1,98 @@
+---
+title: "Does Project-Level Aid for Water and Sanitation Improve Child Health Outcomes? Evidence from Household Panel Data in Uganda"
+description: "This paper examines the effectiveness of WASH aid projects in Uganda by analyzing geocoded data on project locations and household access to water. The findings suggest that while these aid-funded projects improve access to improved water sources, they also increase the time burden for households due to longer travel distances and wait times, indicating that the supply of water sources is still insufficient to meet demand in high-density areas."
+author: 
+  - name: "Lynda Pickbourn"
+    affiliation: "Mount Holyoke College"
+  - name: "Raymond Caraher"
+    url: "https://www.raymondcaraher.com/"
+    orcid: 0000-0001-8256-0180
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+    affiliation-url: "https://www.umass.edu/economics/"
+  - name: "Léonce Ndikumana"
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+date: "November 2022"
+#date-modified: "July 28, 2024"
+image: sev_stunt_rates_by_proj.jpg
+categories:
+  - Aid 
+  - Water and Sanitation
+  - Child Health
+  - Africa
+  - Uganda
+cap-location: top
+citation:
+  type: article-journal
+  container-title: "WIDER Working Paper"
+  url: https://doi.org/10.35188/UNU-WIDER/2022/274-4
+  number: "2022/141"
+
+google-scholar: true 
+---
+
+<!--Abstract------------------------------------------------------------------->
+## Abstract
+
+Empirical studies on the effectiveness of aid to the water, sanitation, and hygiene sector (WASH aid) have focused primarily on access to these services as the benchmark for evaluating the effectiveness of aid in this sector. 
+Given the importance of WASH services for public health outcomes, 
+the effectiveness of WASH aid should also be evaluated in terms of its impact on health outcomes. 
+This is especially important in low- and middle-income countries where achieving sustained improvements in child health outcomes remains a challenge. 
+This paper uses geocoded sub-national data on the location of WASH aid projects in Uganda in conjunction with six waves of nationally representative household-level panel survey data to examine the impact of aid-funded WASH projects on the probability of stunting among Ugandan children and infants. 
+Analysing aid effectiveness at the sub-national level avoids the problems of cross-country heterogeneity in aid effectiveness that plagues other studies. 
+Results of the difference-in-differences regression analysis suggest that proximity to an aid-funded WASH project reduces the probability of stunting by 14–21 percent. 
+The results suggest that scaling up aid to the WASH sector can help improve child health outcomes in the country.
+
+
+<!--Links---------------------------------------------------------------------->
+
+:::: {.columns}
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Final Version'>}} Final Version](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Final Version"}
+
+::: -->
+
+::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Preprint'>}} Preprint](https://doi.org/10.35188/UNU-WIDER/2022/274-4){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Preprint"}
+
+:::
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:database size=1.2em title='Data and Code' >}} Data and Code](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Data and Code"}
+
+::: -->
+
+::::
+
+<!--Figures-------------------------------------------------------------------->
+
+## Key Figures
+
+<!-- ::::: {.column-page}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Fertility Rates](ban_fert_es_mod1.jpg){width=90%}
+
+:::
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Infant Mortality Rates](ban_infmort_es_mod2.jpg){width=90%}
+
+:::
+
+::::
+
+::::: -->
+
+::::: {.column-page}
+
+![Stunting Rates for Children by Distance to Project and Project Type](sev_stunt_rates_by_proj.jpg){width=90%}
+
+:::::

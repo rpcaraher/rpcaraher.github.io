@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+title-block-banner: true
 ---
 
 ## Instructor
@@ -53,6 +54,10 @@ Economics 103 is a general education course in the Social World. It is designed 
 #### Money and Banking
 ##### ECON 311 | University of Massachusetts Amherst
 Spring 2023
+
+#### Intermediate Microeconomics
+##### ECON 203 | University of Massachusetts Amherst
+Fall 2024
 
 #### Introduction to Microeconomics
 ##### ECON 103 | University of Massachusetts Amherst
