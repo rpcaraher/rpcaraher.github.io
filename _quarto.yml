@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Raymond Caraher"
+  favicon: /files/favicon-32x32.png
   navbar:
     background: primary
     search: true
