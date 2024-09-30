@@ -2,12 +2,12 @@
 title: "Research"
 listing:
  - id: working-papers
-   contents: "research-posts/working-papers/*/*.qmd"
+   contents: "/research-posts/working-papers/*/*.qmd"
    type: default
    categories: unnumbered
    sort: "date desc"
  - id: published-articles
-   contents: "research-posts/published-articles/*/*.qmd"
+   contents: "/research-posts/published-articles/*/*.qmd"
    type: default
    categories: unnumbered
    sort: "date desc"
