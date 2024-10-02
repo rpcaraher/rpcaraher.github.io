@@ -11,10 +11,20 @@ listing:
    type: default
    categories: unnumbered
    sort: "date desc"
+ - id: job-market-paper
+   contents: "/research-posts/job-market-paper/*/*.qmd"
+   type: default
+   categories: unnumbered
+   sort: "date desc"
 
 toc: true
 title-block-banner: true
 ---
+
+## Job Market Paper
+
+:::{#job-market-paper}
+:::
 
 ## Working Papers
 
@@ -25,4 +35,3 @@ title-block-banner: true
 
 :::{#published-articles}
 :::
-

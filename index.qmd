@@ -18,7 +18,7 @@ where he collaborated with faculty on a wide range of projects.
 His work at PERI included research on climate change, labor market policy, unions, and development aid.
 
 **Ray is on the academic job market for the 2024--2025 cycle. 
-You can find the most recent version of his Job Market Paper [here](https://ssrn.com/abstract=4911886).**
+You can find his Job Market Paper [here](/research-posts/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.qmd).**
 
 [{{< iconify bi envelope size=1.25em title='Email'>}} Email](mailto:rcaraher@umass.edu){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Email"} | 
 [{{< iconify mdi:internet size=1.25em title='Website'>}} Website](https://www.raymondcaraher.com){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Website"} |

@@ -128,6 +128,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-job-market-paper .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-job-market-paper'] = new List('listing-job-market-paper', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -238,7 +266,8 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#working-papers" id="toc-working-papers" class="nav-link active" data-scroll-target="#working-papers">Working Papers</a></li>
+  <li><a href="#job-market-paper" id="toc-job-market-paper" class="nav-link active" data-scroll-target="#job-market-paper">Job Market Paper</a></li>
+  <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working Papers</a></li>
   <li><a href="#published-articles" id="toc-published-articles" class="nav-link" data-scroll-target="#published-articles">Published Articles</a></li>
   </ul>
 </nav>
@@ -250,24 +279,27 @@ window.Quarto = {
 
 
 
-<section id="working-papers" class="level2">
-<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
-<div id="listing-working-papers" class="quarto-listing quarto-listing-container-default">
+<section id="job-market-paper" class="level2">
+<h2 class="anchored" data-anchor-id="job-market-paper">Job Market Paper</h2>
+<div id="listing-job-market-paper" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Reproductive Health,Abortion,Fertility,Infant Health,Abortion Restrictions &amp; Bans,Texas" data-listing-date-sort="1722139200000" data-listing-file-modified-sort="1727726720336" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="476">
+<div class="quarto-post image-right" data-index="0" data-categories="Abortion Restrictions &amp; Bans,Reproductive Health,Abortion,Fertility,Infant Health,Texas" data-listing-date-sort="1722139200000" data-listing-file-modified-sort="1727886191127" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="959">
 <div class="thumbnail">
-<p><a href="./research-posts/working-papers/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external"></a></p><a href="./research-posts/working-papers/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external">
-<p><img loading="lazy" src="./research-posts/working-papers/tx_abortion_inf_health/ban_infmort_es_mod2.jpg" class="thumbnail-image"></p>
-</a><p><a href="./research-posts/working-papers/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external"></a></p>
+<p><a href="./research-posts/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external"></a></p><a href="./research-posts/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external">
+<p><img loading="lazy" src="./research-posts/job-market-paper/tx_abortion_inf_health/ban_infmort_es_mod2.jpg" class="thumbnail-image"></p>
+</a><p><a href="./research-posts/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./research-posts/working-papers/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external">Do Abortion Bans Affect Reproductive and Infant Health? Evidence from Texas’s 2021 Ban and its Impact on Health Disparities</a>
+<a href="./research-posts/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external">Do Abortion Bans Affect Reproductive and Infant Health? Evidence from Texas’s 2021 Ban and its Impact on Health Disparities</a>
 </h3>
 <div class="listing-subtitle">
-<a href="./research-posts/working-papers/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external"></a>
+<a href="./research-posts/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Abortion Restrictions &amp; Bans'); return false;">
+Abortion Restrictions &amp; Bans
+</div>
 <div class="listing-category" onclick="window.quartoListingCategory('Reproductive Health'); return false;">
 Reproductive Health
 </div>
@@ -280,19 +312,16 @@ Fertility
 <div class="listing-category" onclick="window.quartoListingCategory('Infant Health'); return false;">
 Infant Health
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Abortion Restrictions &amp; Bans'); return false;">
-Abortion Restrictions &amp; Bans
-</div>
 <div class="listing-category" onclick="window.quartoListingCategory('Texas'); return false;">
 Texas
 </div>
 </div>
 <div class="listing-description">
-<a href="./research-posts/working-papers/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external">The overturning of Roe v. Wade and subsequent abortion bans have had profound effects on reproductive health outcomes. Using Texas’s 2021 six-week abortion ban as a case study, this paper finds significant decreases in abortion rates, increases in fertility, and increases in infant health, with the most severe impacts on Black non-Hispanic women and those living far from states with less restrictive abortion laws.</a>
+<a href="./research-posts/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external">The overturning of Roe v. Wade and subsequent abortion bans have had profound effects on reproductive health outcomes. Using Texas’s 2021 six-week abortion ban as a case study, this paper finds significant decreases in abortion rates, increases in fertility, and increases in infant health, with the most severe impacts on Black non-Hispanic women and those living far from states with less restrictive abortion laws.</a>
 </div>
 </div>
 <div class="metadata">
-<a href="./research-posts/working-papers/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external">
+<a href="./research-posts/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.html" class="no-external">
 <div class="listing-date">
 Jul 28, 2024
 </div>
@@ -302,7 +331,17 @@ Raymond Caraher
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Reproductive Health,Abortion Restrictions &amp; Bans,Abortion,Reproductive Justice" data-listing-date-sort="1677992400000" data-listing-file-modified-sort="1727726708791" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="360">
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="working-papers" class="level2">
+<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
+<div id="listing-working-papers" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Reproductive Health,Abortion Restrictions &amp; Bans,Abortion,Reproductive Justice" data-listing-date-sort="1677992400000" data-listing-file-modified-sort="1727748343527" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="360">
 <div class="thumbnail">
 <p><a href="./research-posts/working-papers/reproductive_injustice/reproductive_injustice.html" class="no-external"></a></p><a href="./research-posts/working-papers/reproductive_injustice/reproductive_injustice.html" class="no-external">
 <p><img loading="lazy" src="./research-posts/working-papers/reproductive_injustice/rest_stacked_mod1.jpg" class="thumbnail-image"></p>
@@ -344,7 +383,7 @@ Raymond Caraher
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Aid,Water &amp; Sanitation,Child Health,Africa,Uganda" data-listing-date-sort="1667275200000" data-listing-file-modified-sort="1727727021237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
+<div class="quarto-post image-right" data-index="1" data-categories="Aid,Water &amp; Sanitation,Child Health,Africa,Uganda" data-listing-date-sort="1667275200000" data-listing-file-modified-sort="1727727021237" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
 <div class="thumbnail">
 <p><a href="./research-posts/working-papers/uganda_wash_aid_health/uganda_wash_aid_water.html" class="no-external"></a></p><a href="./research-posts/working-papers/uganda_wash_aid_health/uganda_wash_aid_water.html" class="no-external">
 <p><img loading="lazy" src="./research-posts/working-papers/uganda_wash_aid_health/sev_stunt_rates_by_proj.jpg" class="thumbnail-image"></p>
