@@ -1,6 +1,6 @@
 ---
 title: "Do Abortion Bans Affect Reproductive and Infant Health? Evidence from Texas’s 2021 Ban and its Impact on Health Disparities"
-description: "The overturning of Roe v. Wade and subsequent abortion bans have had profound effects on reproductive health outcomes. Using Texas's 2021 six-week abortion ban as a case study, this paper finds significant decreases in abortion rates, increases in fertility, and increases in infant health, with the most severe impacts on Black non-Hispanic women and those living far from states with less restrictive abortion laws."
+description: "The overturning of Roe v. Wade and subsequent abortion bans may have a profound effect on reproductive health outcomes. Using Texas's 2021 six-week abortion ban as a case study, this paper finds significant decreases in abortion rates, increases in fertility, and increases in infant health, with the most severe impacts on Black non-Hispanic women and those living far from states with less restrictive abortion laws."
 author: 
   - name: "Raymond Caraher"
     url: "https://www.raymondcaraher.com/"
