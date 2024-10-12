@@ -29,7 +29,7 @@ website:
   page-footer:
     border: false
     background: light 
-    left: <span class="faux-block">{{< fa brands creative-commons >}} &copy; 2024 Raymond Caraher. All rights reserved. </span> 
+    left: <span class="faux-block"> &copy; 2024 Raymond Caraher. All rights reserved. </span> 
     right: <span class="faux-block">Built with <a href="https://quarto.org">Quarto</a></span>
     center: <span class="faux-block"> [Contact Me](/contact.qmd) </span>
 

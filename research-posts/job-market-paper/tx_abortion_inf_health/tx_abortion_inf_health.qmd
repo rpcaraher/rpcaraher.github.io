@@ -79,28 +79,31 @@ google-scholar: true
 
 ## Abstract
 
-<!-- The overturning of Roe v. Wade led to a wave of abortion bans in state legislatures across the United States. This emergence of a restrictive reproductive health policy environment has the potential to affect a wide range of reproductive health outcomes. This paper uses Texas’s 2021 6-week ban on abortion as a case study to examine the causal effect of an abortion ban on reproductive health outcomes, specifically abortion rates, fertility rates, and infant health outcomes. It examines how these effects may be heterogeneous by group, especially focusing on how the effects of abortion bans on reproductive health may be concentrated in those who are already facing disparities in reproductive health outcomes such as Black women. Using a difference-in-differences strategy, the analysis finds that the ban decreased abortion rates by over 40 percent, and increased fertility rates by about 4 percent, with the largest increases for Black non-Hispanic women and for counties far from a state with less restrictive abortion laws. This paper then constructs a measure of unmet reproductive health needs after an abortion ban, and finds that the unmet needs after the Texas 6-week ban are largest in counties with higher proportions of Black non-Hispanic residents, as well as counties which are furthest away from states which did not ban abortion after the Dobbs decision. The analysis then examines the effect of the ban on infant health outcomes, specifically focusing on heterogeneity in the effect of the ban on birth weight and infant mortality. This paper finds that the ban led to increases in the probability of an infant being born with very low birth weight of about 7 percent, with Black non-Hispanic infants experiencing the largest increases in the likelihood of very low birth weight. Additionally, the analysis finds significant increases in the infant mortality rate of about 6 percent after the abortion ban, again with Black non-Hispanic infants experiencing the largest increases in mortality. Further, the ban increased infant mortality rates more in counties which are further away from states which did not ban abortion after the Dobbs decision. The results suggest that the effects of abortion bans tend to be especially concentrated in marginalized populations, as well as those who are least able to shift their fertility options away from in-state abortions after a ban. The analysis shows that the trend towards an increasing number abortion bans will further exacerbate disparities in reproductive health outcomes. -->
-
-The overturning of Roe v. Wade sparked a wave of abortion bans across U.S. states, 
-creating a restrictive reproductive health policy environment that may affect a broad range of reproductive health outcomes,
-and exacerbate already high racial and ethnic disparities in reproductive health. 
-This paper introduces an expanded abortion decision tree framework to assess the differential effects of abortion bans, 
-suggesting that those most affected in terms of their inability to shift fertility outcomes away from in-state abortions are also
-most likely to experience negative impacts on other reproductive health outcomes. 
-Using unique county-level data and Texas's 2021 6-week abortion ban as a case study, 
-the study finds a 40% drop in abortion rates, 
-a 4% rise in fertility rates, 
-and increased unmet reproductive health needs,
-particularly for Black non-Hispanic women and those in counties far from states with less restrictive laws. 
-Additionally, the ban led to higher rates of very low birth weight (7%) and infant mortality (6%), 
-along with reductions in interpregnancy intervals, 
-with Black non-Hispanic infants most affected. 
-The analysis also finds that the ban negatively impacts health outcomes for both unintended and intended births, 
-suggesting broader spillover effects on reproductive health systems. 
-The findings indicate that abortion bans have substantial effects on reproductive health outcomes and
-exacerbate existing disparities,
-disproportionately affecting marginalized populations.
-
+In June 2022, 
+the U.S. Supreme Court’s Dobbs v. Jackson decision overturned Roe v. Wade,
+triggering a wave of state-level abortion bans. 
+Texas’ Senate Bill 8 (SB 8), effective in 2021
+banned abortions after six weeks of pregnancy, 
+providing a pre-Dobbs case study to assess the impact of abortion bans on reproductive health. 
+This paper examines the causal impacts of Texas’ abortion ban on fertility and infant health outcomes, 
+including birth weight and mortality, 
+with particular attention to racial and ethnic disparities. 
+Using a unique dataset of county-level and individual-level data, 
+this study finds that the ban led to a 5 percent increase in the incidence of very low birth weight and a 6 percent increase in infant mortality rates,
+disproportionately affecting Black non-Hispanic infants, 
+who experienced a nearly fourfold increase mortality rates compared to white non-Hispanic infants.
+Geographic factors were also significant, 
+with counties farther from states with less restrictive abortion policy experiencing more severe outcomes. 
+To explain these disparities, 
+I construct an expanded abortion decision tree to measure unmet reproductive health needs, 
+revealing how groups adjusted fertility choices post-ban. 
+My results indicate a 40 percent drop in abortion rates and a 4 percent rise in fertility after the ban, 
+with Black non-Hispanic women and those in counties far from non-restrictive states facing the largest increases in fertility and unmet needs. 
+The ban also resulted in shorter interpregnancy intervals, 
+which are associated with adverse maternal and infant health outcomes. 
+Additionally, both unintended and intended births experienced higher rates of adverse infant health outcomes post-ban, 
+indicating spillover effects on reproductive health systems.
+These findings suggest that abortion bans have substantial impacts on reproductive health and exacerbate existing health disparities, disproportionately affecting marginalized populations.
 
 <!--Figures-------------------------------------------------------------------->
 
