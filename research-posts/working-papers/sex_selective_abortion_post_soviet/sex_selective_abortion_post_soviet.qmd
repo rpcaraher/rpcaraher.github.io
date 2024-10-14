@@ -1,0 +1,107 @@
+---
+title: "Sex-Selective Abortion and the Collapse of the Soviet Union"
+description: "This paper investigates the causal effect of the Soviet Union's collapse on sex ratios at birth (SRBs) in Post-Soviet countries, revealing a significant increase of approximately 1.5% in SRBs, which contributed to a substantial number of ''missing girls'' in the 1990s. The study suggests that economic and political shocks, alongside cultural preferences, can drive sex-selective practices, with a particularly enduring effect in high son-preference countries."
+author: 
+  - name: "Raymond Caraher"
+    url: "https://www.raymondcaraher.com/"
+    orcid: 0000-0001-8256-0180
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+    affiliation-url: "https://www.umass.edu/economics/"
+  - name: "Shih-Yen Pan"
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+    affiliation-url: "https://www.umass.edu/economics/"
+  - name: "Lawrence King"
+    affiliations:
+      - name: "Department of Economics, University of Massachusetts Amherst"
+        url: "https://www.umass.edu/economics/"
+      - name: "Political Economy Research Institute"
+        url: "https://peri.umass.edu/"
+date: "October 11, 2024"
+#date-modified: "July 28, 2024"
+image: mod1_es_did.jpg
+categories:
+  - Reproductive Health
+  - Soviet Union
+  - Abortion
+  - Sex Ratio at Birth
+cap-location: top
+citation:
+  type: article-journal
+  container-title: "Political Economy Research Institute (PERI) Working Paper"
+  url: https://peri.umass.edu/?view=article&id=1848:sex-selective-abortion-and-the-collapse-of-the-soviet-union&catid=2
+  number: "610"
+google-scholar: true 
+---
+
+<!--Abstract------------------------------------------------------------------->
+## Abstract
+
+Elevated Sex Ratios at Birth (SRBs) an indicator of sex-selective abortion have been documented in many countries worldwide. This paper examines the causal effect of the Soviet Union’s collapse on SRBs in Post-Soviet countries, using a difference-in-differences research design. Our findings indicate that the collapse resulted in a rise in SRBs by approximately 1.5 percent, peaking in the late 1990s before subsiding in the 2000s. This result suggests that the collapse of the Soviet Union explains 64 percent of the approximately 192,000 missing girls in the Post-Soviet states in the 1990s. Furthermore, the impact of the collapse on SRBs was observed in both high and low son-preference countries, with the effect being roughly twice as large in high son-preference countries, where it persisted into the late 2000s. The conventional theory of pre-natal sex selection typically involves the introduction of modern sex-determination technology into a cultural environment which values sons over daughters. Our findings suggest that economic and political shocks can also be key drivers behind increases in sex-selective abortion and SRBs.
+
+
+<!--Links---------------------------------------------------------------------->
+
+:::: {.columns}
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Final Version'>}} Final Version](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Final Version"}
+
+::: -->
+
+::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Preprint'>}} Preprint](https://peri.umass.edu/?view=article&id=1848:sex-selective-abortion-and-the-collapse-of-the-soviet-union&catid=22){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Preprint"}
+
+:::
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:database size=1.2em title='Data and Code' >}} Data and Code](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Data and Code"}
+
+::: -->
+
+::::
+
+
+<!--Figures-------------------------------------------------------------------->
+
+## Key Figures
+
+<!-- ::::: {.column-page}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Fertility Rates](ban_fert_es_mod1.jpg){width=90%}
+
+:::
+
+::: {.column width="50%"}
+
+![Effect of the Abortion Ban on Infant Mortality Rates](ban_infmort_es_mod2.jpg){width=90%}
+
+:::
+
+::::
+
+::::: -->
+
+::::: {.column-page}
+
+![Effect of the Collapse of the Soviet Union on Sex Ratios at Birth](mod1_es_did.jpg){width=60%}
+
+:::::
+
+::::: {.column-page}
+
+![Effect of the Collapse of the Soviet Union on Sex Ratios at Birth for Post-Soviet Countries with Relatively High and Low Son-Preference](mod1_es_combsonpref_did.jpg){width=60%}
+
+:::::
+
+::::: {.column-page}
+
+![Effect of the Collapse of the Soviet Union on Sex Ratios at Birth for Post-Soviet Countries with Relatively High and Low Traditional Cultural Values](mod1_es_combtradpref_did.jpg){width=60%}
+
+:::::
