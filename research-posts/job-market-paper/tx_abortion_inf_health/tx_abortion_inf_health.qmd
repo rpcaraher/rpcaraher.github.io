@@ -84,7 +84,7 @@ triggering a wave of abortion bans across the country.
 However, prior to *Dobbs v. Jackson*, 
 Texas’s Senate Bill 8 (SB 8) took effect in 2021, 
 banning abortions after six weeks of pregnancy. 
-This paper examines the causal impacts of Texas’ abortion ban on reproductiveand infant health outcomes, 
+This paper examines the causal impacts of Texas’ abortion ban on reproductive and infant health outcomes, 
 including birth weight and mortality, 
 with a focus on racial and ethnic disparities. 
 Using a unique dataset of county-level and individual-level data, 
