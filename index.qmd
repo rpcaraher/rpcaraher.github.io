@@ -8,7 +8,7 @@ about:
 
 ## About
 
-Ray is a recent PhD graduate from the [Department of Economics](https://www.umass.edu/economics/) at the [University of Massachusetts Amherst](https://www.umass.edu).
+Ray is an Assistant Professor in the [Department of Economics](https://www.colby.edu/academics/departments-and-programs/economics/) at [Colby College](https://www.colby.edu).
 
 His research interests lie primarily in health economics and policy, 
 political economy,
@@ -17,7 +17,8 @@ with a particular interest in the political economy of maternal, infant, and chi
 
 Ray’s award-winning dissertation focused on using economic methods to understand the reproductive, infant, and maternal health implications of the overturning of Roe v. Wade and the increasing limits on abortion access in the United States.
 
-Ray will be joining the [Department of Economics](https://www.colby.edu/academics/departments-and-programs/economics/) at [Colby College](https://www.colby.edu/) starting in Fall 2025.
+He recently received his PhD from the [Department of Economics](https://www.umass.edu/economics/) at the [University of Massachusetts Amherst](https://www.umass.edu).
+
 
 [{{< iconify bi envelope size=1.25em title='Email'>}} Email](mailto:rcaraher@umass.edu){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Email"} | 
 [{{< iconify mdi:internet size=1.25em title='Website'>}} Website](https://www.raymondcaraher.com){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Website"} |

@@ -24,6 +24,8 @@ citation:
   url: https://ssrn.com/abstract=4911886
   number: "606"
 google-scholar: true
+aliases: 
+  - "/job-market-paper/tx_abortion_inf_health/tx_abortion_inf_health.html"
 ---
 
 <!--Highlights----------------------------------------------------------------->

@@ -21,10 +21,6 @@ toc: true
 title-block-banner: true
 ---
 
-## Job Market Paper
-
-:::{#job-market-paper}
-:::
 
 ## Working Papers
 
