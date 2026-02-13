@@ -3,7 +3,7 @@ title: "CV"
 title-block-banner: true
 ---
 
-CV last updated: Jan. 7, 2026
+CV last updated: Feb. 13, 2026
 
 <br>
 

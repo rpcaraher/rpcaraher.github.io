@@ -1,0 +1,87 @@
+---
+title: "Commodification and Social Reproduction: Theory and Mixed-Method Evidence on the Effect of Privatization on Childbearing"
+description: "This paper examines how privatization during the post-socialist transition affected fertility rates across Central and Eastern Europe. Combining cross-national panel data with a sub-national analysis of Hungarian towns, the study finds that rapid privatization significantly reduced fertility by undermining social reproduction through increased economic insecurity and the erosion of public services such as childcare."
+author:
+  - name: "Gábor Scheiring"
+    affiliation: "Department of International Politics, Georgetown University Qatar"
+  - name: "Raymond Caraher"
+    url: "https://www.raymondcaraher.com/"
+    orcid: 0000-0001-8256-0180
+    affiliation: "Department of Economics, Colby College"
+    affiliation-url: "https://www.colby.edu/academics/departments-and-programs/economics/"
+  - name: "Eva Fodor"
+    affiliation: "Department of Gender Studies, Central European University"
+  - name: "Gosta Esping-Andersen"
+    affiliation: "Department of Social and Political Sciences, Bocconi University"
+  - name: "Lawrence King"
+    affiliation: "Department of Economics, University of Massachusetts Amherst"
+date: "February 2026"
+#date-modified: ""
+image: priv_fert_country_level.png
+categories:
+  - Fertility
+  - Post-Soviet Transition
+cap-location: top
+citation:
+  type: article-journal
+  container-title: "European Journal of Sociology"
+  doi: https://doi.org/10.1017/S0003975625100246
+google-scholar: true
+---
+
+<!--Abstract------------------------------------------------------------------->
+## Abstract
+
+**Published in *European Journal of Sociology***
+
+What is the effect of commodification on social reproduction? This paper examines the impact of privatization on fertility, the most fundamental aspect of social reproduction, in post-socialist Central and Eastern Europe. Neoliberal market reforms in post-socialist countries involved the privatization of enterprises and the retrenchment of the welfare state, increasing economic insecurity and eroding the social infrastructure essential for raising families, including access to childcare. While prior studies have pointed to the role of economic insecurity and declining welfare provisions in reducing fertility, this paper is the first to examine the direct effect of privatization on fertility, relying on a political economy approach and a mixed-method research design. At the macro-level, a cross-national panel analysis of 27 post-socialist countries (1989--2006) demonstrates that privatization significantly reduced fertility rates. At the meso-level, a sub-national analysis of 328 Hungarian towns (1990--2001) using two-way fixed effects models reveals that employment in privatized firms reduced local fertility. Both the cross-national and sub-national analyses support a causal interpretation of the relationship between privatization and fertility decline. These findings suggest that the commodification of social life through privatization undermines social reproduction by increasing economic insecurity and weakening public services critical to family formation.
+
+
+<!--Links---------------------------------------------------------------------->
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Final Version'>}} Final Version](https://doi.org/10.1017/S0003975625100246){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Final Version"}
+
+:::
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:page-edit size=1.25em title='Preprint' title='Preprint'>}} Preprint](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Preprint"}
+
+::: -->
+
+<!-- ::: {.column width="33%"}
+
+[{{< iconify iconoir:database size=1.2em title='Data and Code' >}} Data and Code](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Data and Code"}
+
+::: -->
+
+::::
+
+
+<!--Figures-------------------------------------------------------------------->
+
+## Key Figures
+
+::::: {.column-page}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Average Privatization and Fertility across Post-Socialist Countries, 1989--2006](priv_fert_country_level.png){width=100%}
+
+:::
+
+::: {.column width="50%"}
+
+![Effect of Privatized Firm Employment on Fertility in Hungarian Towns](priv_fert_hungarian_towns.png){width=100%}
+
+:::
+
+::::
+
+:::::

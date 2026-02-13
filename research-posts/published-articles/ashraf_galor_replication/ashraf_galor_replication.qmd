@@ -5,8 +5,8 @@ author:
   - name: "Raymond Caraher"
     url: "https://www.raymondcaraher.com/"
     orcid: 0000-0001-8256-0180
-    affiliation: "Department of Economics, University of Massachusetts Amherst"
-    affiliation-url: "https://www.umass.edu/economics/"
+    affiliation: "Department of Economics, Colby College"
+    affiliation-url: "https://www.colby.edu/academics/departments-and-programs/economics/"
   - name: "Michael Ash"
     affiliation: "Department of Economics, University of Massachusetts Amherst"
 date: "June 6, 2018"
