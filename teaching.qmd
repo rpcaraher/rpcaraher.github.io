@@ -19,9 +19,9 @@ This course explores the measurement and evaluation of economic models, bridging
 ::: {.callout-tip appearance="minimal"}
 # Course Materials
 
-{{< iconify iconoir:map size=1.2em title='Syllabus' >}} [Syllabus](files/ec325_syllabus.html)
+{{< iconify iconoir:map size=1.2em title='Syllabus' >}} [Sample Syllabus](files/ec325_syllabus.html)
 
-{{< iconify devicon:notion size=1.2em title='Lecture Notes' >}} [Lecture Notes](https://www.raymondcaraher.com/ec325/)
+{{< iconify iconoir:book size=1.2em title='Lecture Notes' >}} [Lecture Notes](https://www.raymondcaraher.com/ec325/)
 
 
 
