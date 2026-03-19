@@ -20,7 +20,7 @@ Ray’s award-winning dissertation focused on using economic methods to understa
 He recently received his PhD from the [Department of Economics](https://www.umass.edu/economics/) at the [University of Massachusetts Amherst](https://www.umass.edu).
 
 
-[{{< iconify bi envelope size=1.25em title='Email'>}} Email](mailto:rcaraher@umass.edu){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Email"} | 
+[{{< iconify bi envelope size=1.25em title='Email'>}} Email](mailto:rcaraher@colby.edu){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Email"} | 
 [{{< iconify mdi:internet size=1.25em title='Website'>}} Website](https://www.raymondcaraher.com){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Website"} |
 [{{< iconify bi github  size=1.25em title='GitHub'>}} GitHub](https://github.com/rpcaraher){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="GitHub"}
 

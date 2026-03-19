@@ -5,6 +5,31 @@ title-block-banner: true
 
 ## Instructor
 
+### Econometrics
+##### EC325 | Colby College
+Fall 2025; Spring 2026
+
+::: {.callout-note  appearance="default" collapse="true"}
+# About the Course
+
+This course explores the measurement and evaluation of economic models, bridging economic theory with empirical analysis. The emphasis throughout is on building intuitive understanding and applying econometric techniques to real-world problems encountered in public policy. With a focus on causality as our guiding theme, we begin by establishing a framework for causal inference based on the gold standard of randomized trials—a foundation that will inform our approach throughout the course. We then introduce the workhorse of econometric analysis: the linear regression model. You’ll learn about its statistical properties and limitations, and how to interpret and communicate econometric results effectively. Building on this foundation, we explore how to apply these tools to real-life scenarios, covering categorical variables, non-linear relationships, binary outcomes, and other specialized models. The course concludes with advanced econometric techniques for analyzing two particularly powerful types of data: panel data and time series data. Econometrics demands a diverse skill set encompassing mathematics, statistics, economic theory, programming, and written and verbal communication. Perhaps most importantly, it requires developing strong intuition. This course will equip you with the analytical tools and empirical methods essential for modern economic research and policy analysis.
+
+:::
+
+::: {.callout-tip appearance="minimal"}
+# Course Materials
+
+{{< iconify iconoir:map size=1.2em title='Syllabus' >}} [Syllabus](files/ec325_syllabus.html)
+
+{{< iconify devicon:notion size=1.2em title='Lecture Notes' >}} [Lecture Notes](https://www.raymondcaraher.com/ec325/)
+
+
+
+
+
+:::
+
+
 ### Economics in the Age of Big Data
 ##### ECON 337 | University of Massachusetts Amherst
 Fall 2023
