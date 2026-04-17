@@ -7,7 +7,7 @@ title-block-banner: true
 
 ### Econometrics
 ##### EC325 | Colby College
-Fall 2025; Spring 2026
+
 
 ::: {.callout-note  appearance="default" collapse="true"}
 # About the Course
@@ -23,16 +23,39 @@ This course explores the measurement and evaluation of economic models, bridging
 
 {{< iconify iconoir:book size=1.2em title='Lecture Notes' >}} [Lecture Notes](https://www.raymondcaraher.com/ec325/)
 
+:::
+
+### The Political Economy of Public Health
+##### EC316 | Colby College
 
 
+::: {.callout-note  appearance="default" collapse="true"}
+# About the Course
+
+This course examines the intersections between economics, social institutions, and population health outcomes. Students will explore how social, economic, and political structures influence—and are influenced by—patterns of health and illness. The course adopts a multidisciplinary approach, incorporating statistical methods, econometrics, formal economic modeling, historical analysis, qualitative research, and political economy frameworks.
+
+The course is organized into three main modules.
+The first module, Public Health in Historical Context, explores the foundational links between political-economic change and population health. We will examine major historical transitions, from the Black Death to the Industrial Revolution, and trace the origins of the modern healthcare system, including the rise of the medical profession and the impact of early large-scale public health investments.
+
+The second module, Models of Health and Healthcare, shifts to economic theory. We will apply microeconomic models to understand the unique features of healthcare markets, including the demand for health, the role of risk and insurance, and problems of adverse selection. We will also compare the structure of the U.S. healthcare system with international models of provisioning care.
+
+The final module, The Social and Political Determinants of Health, applies these historical and theoretical frameworks to critical contemporary issues. We will investigate deep-rooted health disparities along racial, class, and gender lines; and analyze the influence of corporate power on public health. We conclude by examining the health consequences of major economic crises, such as de-industrialization, austerity, and the rise in "deaths of despair."
+
+:::
+
+::: {.callout-tip appearance="minimal"}
+# Course Materials
+
+{{< iconify iconoir:map size=1.2em title='Syllabus' >}} [Sample Syllabus](files/ec316_syllabus.html)
 
 
 :::
 
 
+
 ### Economics in the Age of Big Data
 ##### ECON 337 | University of Massachusetts Amherst
-Fall 2023
+
 
 ::: {.callout-note  appearance="default" collapse="true"}
 # About the Course
@@ -57,7 +80,7 @@ This course focuses on the practical applications of Big Data for social scienti
 
 ### Introduction to Microeconomics
 ##### ECON 103 | University of Massachusetts Amherst
-Summer 2024
+
 
 ::: {.callout-note appearance="default" collapse="true"}
 # About the Course
